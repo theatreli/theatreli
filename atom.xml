@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>Li</title>
-    <updated>2020-03-29T14:40:54.886Z</updated>
+    <updated>2020-03-29T14:42:49.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
@@ -25,9 +25,7 @@
         <id>https://theatreli.github.io/post/CV/</id>
         <link href="https://theatreli.github.io/post/CV/">
         </link>
-        <updated>2020-03-28T01:41:13.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://theatreli.github.io/post-images/1585479487457.jpg" alt="" loading="lazy"></figure>
-]]></content>
+        <updated>2020-03-27T18:41:13.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[✴︎ Aube]]></title>
