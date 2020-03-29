@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://theatreli.github.io</id>
+    <title>Li</title>
+    <updated>2020-03-29T14:40:54.886Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://theatreli.github.io"/>
+    <link rel="self" href="https://theatreli.github.io/atom.xml"/>
+    <subtitle>&quot;Pour savoir écrire il faut avoir lu, et pour savoir lire il faut savoir vivre.&quot;
+✍︎ Guy Debord</subtitle>
+    <logo>https://theatreli.github.io/images/avatar.png</logo>
+    <icon>https://theatreli.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Li</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://theatreli.github.io/post/notes-2/</id>
+        <link href="https://theatreli.github.io/post/notes-2/">
+        </link>
+        <updated>2020-03-29T07:23:17.000Z</updated>
+        <content type="html"><![CDATA[<p>notes</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[  ]]></title>
+        <id>https://theatreli.github.io/post/CV/</id>
+        <link href="https://theatreli.github.io/post/CV/">
+        </link>
+        <updated>2020-03-28T01:41:13.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://theatreli.github.io/post-images/1585479487457.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✴︎ Aube]]></title>
+        <id>https://theatreli.github.io/post/notes/</id>
+        <link href="https://theatreli.github.io/post/notes/">
+        </link>
+        <updated>2020-01-30T14:49:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="center-aube-center"><strong><em><center> Aube </center></em></strong></h3>
+<h4 id="center-arthur-rimbaud-illuminations-center"><strong><em><center> Arthur Rimbaud, Illuminations </center></em></strong></h4>
+<br />
+<br />
+<p>J’ai embrassé l’aube d’été.</p>
+<p>Rien ne bougeait encore au front des palais. L’eau était morte. Les camps d’ombres ne quittaient pas la route<br>
+du bois. J’ai marché, réveillant les haleines vives et tièdes, et les pierreries regardèrent, et les ailes<br>
+se levèrent sans bruit.</p>
+<p>La première entreprise fut, dans le sentier déjà empli de frais et blêmes éclats, une fleur qui me dit son nom.</p>
+<p>Je ris au wasserfall blond qui s’échevela à travers les sapins : à la cime argentée   je reconnus la déesse.</p>
+<p>Alors je levai un à un les voiles. Dans l’allée, en agitant les bras. Par la plaine,où je l’ai dénoncée au coq.<br>
+A la grand’ville elle fuyait parmi les clochers et les dômes, et courant comme un     mendiant sur les quais de marbre,<br>
+je la chassais.</p>
+<p>En haut de la route, près d’un bois de lauriers, je l’ai entourée avec ses voiles   amassés, et j’ai senti un peu<br>
+son immense corps. L’aube et l’enfant tombèrent au bas du bois.</p>
+<p>Au réveil il était midi.</p>
+<center> ✴︎ </center>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[￬]]></title>
+        <id>https://theatreli.github.io/post/on-commence/</id>
+        <link href="https://theatreli.github.io/post/on-commence/">
+        </link>
+        <updated>2019-12-31T13:43:49.000Z</updated>
+        <content type="html"><![CDATA[<p><em><center> fjieourisno aosdiyf;zfiuq aeief'oiudafe <center></em><br>
+<br/><br/></p>
+<h3 id="center-préface-center"><center>  Préface <center></h3>
+<p><br/><br/></p>
+<h3 id="centeribr-ce-jour-là-javais-21-ans-center"><center>Ⅰ<br/> Ce jour-là, j'avais 21 ans...  <center></h3>
+<p><br/><br/><br>
+☞ <a href="https://github.com/getgridea/gridea">Github</a><br>
+2015-2016 la maison de yudian<br>
+<br/><br/></p>
+<h3 id="center-iibr-journaliste-center"><center> Ⅱ<br/> journaliste <center></h3>
+<p><br/><br/><br>
+2017-2018<br>
+<br/><br/></p>
+<h3 id="center-iii-br-théâtre-center"><center> Ⅲ <br/> Théâtre <center></h3>
+<p><br/><br/><br>
+2018-2019 majestic theatre<br>
+<br/><br/></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://theatreli.github.io/post/hello-gridea/</id>
+        <link href="https://theatreli.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
