@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>Li</title>
-    <updated>2020-03-29T15:40:53.794Z</updated>
+    <updated>2020-04-02T20:12:40.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
@@ -11,15 +11,6 @@
     <logo>https://theatreli.github.io/images/avatar.png</logo>
     <icon>https://theatreli.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Li</rights>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://theatreli.github.io/post/notes-2/</id>
-        <link href="https://theatreli.github.io/post/notes-2/">
-        </link>
-        <updated>2020-03-29T07:23:17.000Z</updated>
-        <content type="html"><![CDATA[<p>notes</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[  ]]></title>
         <id>https://theatreli.github.io/post/CV/</id>
@@ -52,6 +43,44 @@ je la chassais.</p>
 son immense corps. L’aube et l’enfant tombèrent au bas du bois.</p>
 <p>Au réveil il était midi.</p>
 <center> ✴︎ </center>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Ce jour-là, j'avais 21 ans...]]></title>
+        <id>https://theatreli.github.io/post/yudian/</id>
+        <link href="https://theatreli.github.io/post/yudian/">
+        </link>
+        <updated>2020-01-02T01:23:17.000Z</updated>
+        <content type="html"><![CDATA[<center> 那一天我二十一岁，在我一生的黄金时代，我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云，后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消逝，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。
+——王小波《黄金时代》 <center>
+<br/><br/>
+<figure data-type="image" tabindex="1"><img src="https://theatreli.github.io/post-images/1585855332510.JPG" alt="" loading="lazy"></figure>
+<center> La maison de Yudian<center> 
+<br/>
+<figure data-type="image" tabindex="2"><img src="https://theatreli.github.io/post-images/1585855488653.JPG" alt="" loading="lazy"></figure>
+<center> Nana <center> 
+<br/>
+<figure data-type="image" tabindex="3"><img src="https://theatreli.github.io/post-images/1585855611394.JPG" alt="" loading="lazy"></figure>
+<center> Enivrantes nuits de printemps <center> 
+<br/>
+<figure data-type="image" tabindex="4"><img src="https://theatreli.github.io/post-images/1585855797252.JPG" alt="" loading="lazy"></figure>
+<center> Enivrantes nuits de printemps <center> <br/>
+<figure data-type="image" tabindex="5"><img src="https://theatreli.github.io/post-images/1585856292274.jpg" alt="" loading="lazy"></figure>
+<center> Joyeux Noël special sell <center> 
+<br/> 
+<figure data-type="image" tabindex="6"><img src="https://theatreli.github.io/post-images/1585856920257.jpg" alt="" loading="lazy"></figure>
+<center> bibliothèque <center> 
+<br/>
+<figure data-type="image" tabindex="7"><img src="https://theatreli.github.io/post-images/1585858212798.jpg" alt="" loading="lazy"></figure>
+<center>*The Goat, or Who Is Sylvia?*<center> 
+<br/>
+<center> Enivrantes nuits de printemps <center> 
+<br/>
+<figure data-type="image" tabindex="8"><img src="https://theatreli.github.io/post-images/1585856974632.jpg" alt="" loading="lazy"></figure>
+<center> la fenêtre <center> 
+<br/>
+<center> fin  <center> <br/>
+<center> ✴︎  <center> 
 ]]></content>
     </entry>
     <entry>
