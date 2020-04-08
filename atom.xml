@@ -2,12 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>Li</title>
-    <updated>2020-04-05T21:00:13.968Z</updated>
+    <updated>2020-04-08T11:30:30.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
-    <subtitle>&quot;Pour savoir écrire il faut avoir lu, et pour savoir lire il faut savoir vivre.&quot;
-✍︎ Guy Debord</subtitle>
+    <subtitle>&quot;Pour savoir écrire il faut avoir lu, et pour savoir lire il faut savoir vivre.&quot; ✍︎ Guy Debord</subtitle>
     <logo>https://theatreli.github.io/images/avatar.png</logo>
     <icon>https://theatreli.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Li</rights>
@@ -88,12 +87,15 @@ son immense corps. L’aube et l’enfant tombèrent au bas du bois.</p>
         <id>https://theatreli.github.io/post/Une piece de ma vie/</id>
         <link href="https://theatreli.github.io/post/Une piece de ma vie/">
         </link>
-        <updated>2019-12-30T09:43:49.000Z</updated>
-        <content type="html"><![CDATA[<p>##<center> Une piece de ma vie <center></p>
-<p><br/><br/></p>
-<h3 id="center-序-br-préface-center"><center>  序 <br/> Préface <center></h3>
-<p><br/><br/></p>
-<h3 id="center-ibr-那一年我二十一岁brthat-day-i-was-twenty-one-center"><center> Ⅰ<br/> 那一年我二十一岁……<br/>That day I was twenty-one...  <center></h3>
+        <updated>2019-12-30T02:43:49.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，我是梨。这里是我的网站。我在这里发表作品，我写日记，也爱拍照。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到它们。谢谢。祝你愉快。</p>
+<p>Bonjour, c'est Li. J'écris, et je photographie. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver mes travaux. Merci. Bonne lecture.</p>
+<p>Hi, this is Li. I write, and take photo. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
+<br/><br/></p>
+<h3 id="center-monologue-br-de-li-centerbr"><center>  MONOLOGUE <br/> de Li <center><br/></h3>
+<h4 id="center-序-br-préface-centerbrbr"><center>  序 <br/> Préface <center><br/><br/></h4>
+<p>La passion de théâtre me conduit à déplacer jusqu’à Paris.</p>
+<h4 id="center-ibr-那一年我二十一岁brthat-day-i-was-twenty-one-center"><center> Ⅰ<br/> 那一年我二十一岁……<br/>That day I was twenty-one...  <center></h4>
 <p><br/><br/></p>
 <center>La maison de Yudian est une libraire<br/> lire <br/><center>
 <p>☞ <a href="https://theatreli.com/post/yudian/">savoir plus</a></p>
