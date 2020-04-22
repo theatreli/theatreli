@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
-    <title>Li</title>
-    <updated>2020-04-22T08:32:06.008Z</updated>
+    <title>Li YE</title>
+    <updated>2020-04-22T09:11:27.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
-    <subtitle>&quot;Pour savoir écrire il faut avoir lu, et pour savoir lire il faut savoir vivre.&quot; ✍︎ Guy Debord</subtitle>
+    <subtitle>&quot;I thought I would always be lively and strong, and that nothing could beat me. &quot; ✍︎ Xiaobo WANG</subtitle>
     <logo>https://theatreli.github.io/images/avatar.png</logo>
     <icon>https://theatreli.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Li</rights>
+    <rights>All rights reserved 2020, Li YE</rights>
     <entry>
         <title type="html"><![CDATA[能多益日记 Journal du confinement - Première partie: Nutella]]></title>
         <id>https://theatreli.github.io/post/neng-duo-yi-ri-ji-journal-du-confinement-premiere-partie-nutella/</id>
         <link href="https://theatreli.github.io/post/neng-duo-yi-ri-ji-journal-du-confinement-premiere-partie-nutella/">
         </link>
-        <updated>2020-04-20T08:54:32.000Z</updated>
+        <updated>2020-04-19T20:54:32.000Z</updated>
         <content type="html"><![CDATA[<h4 id="序-préface">序 Préface</h4>
 <p>3 月 17 日，法国正式限制出行。马克龙总统在前夜发表电视演讲，这是面对新冠病毒的第二次电视演讲。他重复了六遍，“我们处于战争状态”。<br>
 “Nous sommes en guerre.”</p>
@@ -98,6 +98,7 @@
 <p>2020.04.20</p>
 <p>（...）</p>
 <p>✴︎</p>
+<h4 id="back">☞ <a href="https://theatreli.com/post/a-la-une/">back</a></h4>
 ]]></content>
     </entry>
     <entry>
@@ -114,7 +115,7 @@
         <id>https://theatreli.github.io/post/notes/</id>
         <link href="https://theatreli.github.io/post/notes/">
         </link>
-        <updated>2020-01-30T07:49:00.000Z</updated>
+        <updated>2020-01-30T00:49:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="center-aube-center"><strong><em><center> Aube </center></em></strong></h3>
 <h4 id="center-arthur-rimbaud-illuminations-center"><strong><em><center> Arthur Rimbaud, Illuminations </center></em></strong></h4>
 <br />
@@ -132,23 +133,25 @@ je la chassais.</p>
 son immense corps. L’aube et l’enfant tombèrent au bas du bois.</p>
 <p>Au réveil il était midi.</p>
 <center> ✴︎ </center>
+<h3 id="back">☞ <a href="https://theatreli.com/post/a-la-une/">back</a></h3>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ ☞ clique ☜]]></title>
-        <id>https://theatreli.github.io/post/monologue/</id>
-        <link href="https://theatreli.github.io/post/monologue/">
+        <title type="html"><![CDATA[ ☞ à la une ☜]]></title>
+        <id>https://theatreli.github.io/post/a-la-une/</id>
+        <link href="https://theatreli.github.io/post/a-la-une/">
         </link>
-        <updated>2019-12-27T11:43:49.000Z</updated>
-        <content type="html"><![CDATA[<p>你好，我是梨。这里是我的网站。我写日记，也拍照。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到它们。谢谢。祝你愉快。</p>
+        <updated>2019-12-26T07:43:49.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，我是梨。这里是我的网站。我写日记，偶尔拍照。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
 <p>Bonjour, c'est Li. J'écris, et je photographie. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver mes travaux. Merci. Bonne lecture.</p>
 <p>Hi, this is Li. I write, and take photo. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
-<br/><br/></p>
+<br/><br/><br/></p>
+<center>✴︎<center>
 <h3 id="center-un-monologue-br-de-li-centerbr"><center>  un MONOLOGUE <br/> de Li <center><br/></h3>
-<h4 id="center-引-br-avant-propos-centerbrbr"><center>  引 <br/> Avant-propos <center><br/><br/></h4>
+<h4 id="center-引-br-avant-propos-centerbr"><center>  引 <br/> Avant-propos <center><br/></h4>
 <p>那一天我二十一岁，在我一生的黄金时代，我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云，后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消逝，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。<br/><br>
 ——王小波《黄金时代》<br/><br/><br>
-That day I was twenty-one, and in the golden age of my life. I had so many desires; I wanted to love, to eat, and to be turned in a flash into the halfbright and half-dark cloud in the sky. Only much later did I realize that life is a slow process of being hammered. People grow old day after day, their desire disappears little by little, and finally they become like those hammered bulls. However, that idea never crossed my mind on my twenty-first birthday. I thought I would always be lively and strong, and that nothing could beat me. <br/> The Golden Age, Xiaobo Wang<br/><br/></p>
+That day I was twenty-one, and in the golden age of my life. I had so many desires; I wanted to love, to eat, and to be turned in a flash into the halfbright and half-dark cloud in the sky. Only much later did I realize that life is a slow process of being hammered. People grow old day after day, their desire disappears little by little, and finally they become like those hammered bulls. However, that idea never crossed my mind on my twenty-first birthday. I thought I would always be lively and strong, and that nothing could beat me. <br/> <br/> The Golden Age, Xiaobo Wang<br/><br/></p>
 <h4 id="center-ibr-与点书屋-br-la-maison-de-yudian-center"><center> Ⅰ<br/> 与点书屋 <br/> La maison de Yudian <center></h4>
 <center><br/> Elle était belle, n'est-ce pas? <br/><center>
 <p><img src="https://theatreli.github.io/post-images/1586350039733.jpg" alt="" loading="lazy"> la maison de Yudian<br/><br>
@@ -162,12 +165,14 @@ That day I was twenty-one, and in the golden age of my life. I had so many desir
 <center>✴︎<center>
 <br/><br/><br/><br/>
 <h5 id="center-iibr-在上海-br-shanghai-center"><center> Ⅱ<br/> 在上海 <br/> Shanghai <center></h5>
-<center>cooming soon <center>
-<br/><br/>
-<h4 id="center-iii-br-做手工-center"><center> Ⅲ <br/> 做手工 <center></h4>
-<p>☞ <a href="https://theatreli.com/post/majestic-theatre/">savoir plus</a><br>
-<br/><br/><br/></p>
+<p>☞ <a href="https://theatreli.com/post/majestic-theatre/">savoir plus</a></p>
 <p><br/><br/></p>
+<h4 id="center-iii-br-在法国-bren-francecenter"><center> Ⅲ <br/> 在法国 <br/>En France<center></h4>
+<p>Journal du confinement<br>
+Premiere partie: Nutella<br>
+☞ <a href="https://theatreli.com/post/neng-duo-yi-ri-ji-journal-du-confinement-premiere-partie-nutella/">savoir plus</a><br>
+<br/><br/></p>
+<center>✴︎<center>
 ]]></content>
     </entry>
     <entry>
@@ -175,7 +180,7 @@ That day I was twenty-one, and in the golden age of my life. I had so many desir
         <id>https://theatreli.github.io/post/majestic-theatre/</id>
         <link href="https://theatreli.github.io/post/majestic-theatre/">
         </link>
-        <updated>2019-12-26T13:29:52.000Z</updated>
+        <updated>2019-12-25T23:29:52.000Z</updated>
         <content type="html"><![CDATA[<h3 id="centerfestifalcenter"><center>FESTIFAL<center></h3>
 <h4 id="centerspanish-film-week-2019center"><center>SPANISH FILM WEEK 2019<center></h4>
 <p><br/>Brochure, Tote bag, Notebook, Postcard, Special ticket stub<br>
@@ -198,7 +203,7 @@ Photography: YE LI</p>
 <img src="https://theatreli.github.io/post-images/1587418413964.jpg" alt="" loading="lazy"><br>
 <img src="https://theatreli.github.io/post-images/1587418035264.jpg" alt="" loading="lazy"><br>
 <img src="https://theatreli.github.io/post-images/1587418365169.jpg" alt="" loading="lazy"><br/></p>
-<h3 id="center-other-productscenter"><center> OTHER PRODUCTS<center></h3>
+<h3 id="centerother-productscenter"><center>OTHER PRODUCTS<center></h3>
 <p><br/>Ticket folder, Masking tape, Hand fan, Pin<br>
 Disigner: TAO TAIYANG<br>
 Photography: YE LI<br>
@@ -207,6 +212,7 @@ Photography: YE LI<br>
 <img src="https://theatreli.github.io/post-images/1587419422712.jpg" alt="" loading="lazy"><br>
 <img src="https://theatreli.github.io/post-images/1587419739112.jpg" alt="" loading="lazy"></p>
 <center>✴︎<center>
+<h4 id="back">☞ <a href="https://theatreli.com/post/a-la-une/">back</a></h4>
 ]]></content>
     </entry>
 </feed>
