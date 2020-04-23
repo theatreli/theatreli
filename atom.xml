@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://theatreli.github.io</id>
-    <title>野梨  YE LI</title>
-    <updated>2020-04-23T07:37:07.820Z</updated>
+    <title>野梨</title>
+    <updated>2020-04-23T07:59:24.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://theatreli.github.io"/>
     <link rel="self" href="https://https://theatreli.github.io/atom.xml"/>
-    <subtitle>&quot;I thought I would always be lively and strong, and that nothing could beat me. &quot; ✍︎ Xiaobo WANG</subtitle>
+    <subtitle>YE LI</subtitle>
     <logo>https://https://theatreli.github.io/images/avatar.png</logo>
     <icon>https://https://theatreli.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 野梨  YE LI</rights>
+    <rights>All rights reserved 2020, 野梨</rights>
     <entry>
         <title type="html"><![CDATA[ ☞ about me ☜]]></title>
         <id>https://https://theatreli.github.io/post/a-la-une/</id>
         <link href="https://https://theatreli.github.io/post/a-la-une/">
         </link>
-        <updated>2020-04-22T00:57:43.000Z</updated>
-        <content type="html"><![CDATA[<p>你好，我是梨。这里是我的网站。我写日记，偶尔拍照。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
-<p>Bonjour, c'est Li. J'écris, et je photographie. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver mes travaux. Merci. Bonne lecture.</p>
+        <updated>2020-04-21T12:57:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>&quot;I thought I would always be lively and strong, and that nothing could beat me. &quot; ✍︎ Xiaobo WANG</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>&quot;I thought I would always be lively and strong, and that nothing could beat me. &quot; ✍︎ Xiaobo WANG</p>
+<!-- more -->
+<p>你好，我是梨。这里是我的网站。我写日记，偶尔拍照。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
+<p>Bonjour, c'est Li. J'écris, et je photographie. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver ceux qui vous intéressent. Merci. Bonne lecture.</p>
 <p>Hi, this is Li. I write, and take photo. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
 <br/><br/><br/></p>
 <center>✴︎<center>
