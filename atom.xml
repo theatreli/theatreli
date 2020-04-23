@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://theatreli.github.io</id>
     <title>野梨  YE LI</title>
-    <updated>2020-04-23T07:10:31.163Z</updated>
+    <updated>2020-04-23T07:33:14.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://theatreli.github.io"/>
     <link rel="self" href="https://https://theatreli.github.io/atom.xml"/>
@@ -11,11 +11,11 @@
     <icon>https://https://theatreli.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 野梨  YE LI</rights>
     <entry>
-        <title type="html"><![CDATA[ ☞ à la une ☜]]></title>
+        <title type="html"><![CDATA[ ☞ about me ☜]]></title>
         <id>https://https://theatreli.github.io/post/a-la-une/</id>
         <link href="https://https://theatreli.github.io/post/a-la-une/">
         </link>
-        <updated>2020-04-22T06:57:43.000Z</updated>
+        <updated>2020-04-22T00:57:43.000Z</updated>
         <content type="html"><![CDATA[<p>你好，我是梨。这里是我的网站。我写日记，偶尔拍照。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
 <p>Bonjour, c'est Li. J'écris, et je photographie. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver mes travaux. Merci. Bonne lecture.</p>
 <p>Hi, this is Li. I write, and take photo. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
