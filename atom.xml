@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>野梨</title>
-    <updated>2020-05-10T19:43:22.651Z</updated>
+    <updated>2020-05-10T22:12:48.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
@@ -168,11 +168,11 @@ Photography: Yeli, Taotaiyang,<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 西班牙电影大师展 SPANISH FILM WEEK]]></title>
+        <title type="html"><![CDATA[西班牙电影大师展 SPANISH FILM WEEK 2019]]></title>
         <id>https://theatreli.github.io/post/spanish_film_week/</id>
         <link href="https://theatreli.github.io/post/spanish_film_week/">
         </link>
-        <updated>2019-03-27T12:36:42.000Z</updated>
+        <updated>2019-03-27T05:36:42.000Z</updated>
         <content type="html"><![CDATA[<hr>
 <p>4月20、21日（周六和周日），上海艺术电影联盟将在美琪大戏院举办“西班牙电影大师展”。本次影展共放映5部电影，分别是《刽子手》、《蜂巢幽灵》、《死亡论文》、《崩溃边缘的女人》、《关于我母亲的一切》。</p>
 <p>说起“西班牙”，马上就会联想到火腿、海鲜饭、弗拉明戈等等，我们的主海报正是传达了这种伊比利亚半岛的热情，是不是很有“食”欲！</p>
@@ -229,7 +229,7 @@ Photography: Yeli, Taotaiyang,<br>
 <li></li>
 </ul>
 <p>为美琪大戏院写的媒体稿，2019年3月<br>
-SPANISH FILM WEEK，Majestic Theatre，2019.4.20-21</p>
+SPANISH FILM WEEK，Majestic Theatre，Shanghai，2019.4.20-21</p>
 ]]></content>
     </entry>
     <entry>
@@ -237,8 +237,9 @@ SPANISH FILM WEEK，Majestic Theatre，2019.4.20-21</p>
         <id>https://theatreli.github.io/post/ryuichi-sakamoto-async/</id>
         <link href="https://theatreli.github.io/post/ryuichi-sakamoto-async/">
         </link>
-        <updated>2019-01-29T06:24:59.000Z</updated>
-        <content type="html"><![CDATA[<hr>
+        <updated>2019-01-28T23:24:59.000Z</updated>
+        <content type="html"><![CDATA[<p>PROJECTION | RYUICHI SAKAMOTO: async, Majestic Theatre, Shanghai，2019.1.29</p>
+<hr>
 <p>2019年1月29日，美琪大戏院将放映《坂本龙一：异步公园大道军械库》。坂本龙一在纽约公园大道军械库的这次演出，是他首次公开演出他的新专辑《异步》。美琪大戏院的此次放映也是这部影片的上海首秀。</p>
 <p>作为一位在电子乐、摇滚乐、古典乐等领域均有深厚造诣的日本钢琴演奏家、作曲家与制作人，坂本龙一在上世纪80年代就已有颇高的国际知名度。他与细野晴臣以及高桥幸宏组建的合成器摇滚乐队 Yellow Magic Orchestra (YMO)  红极一时，迈克尔·杰克逊曾翻唱过他们的歌曲。</p>
 <p>坂本龙一以“由他创作配乐”为条件，在大岛渚的电影《战场上的圣诞快乐》(Merry Christmas，Mr Lawrence) 中饰演日本军官。这部电影作为他的表演和配乐双重处女作，让他收获了更多粉丝，电影主题曲《圣诞快乐，劳伦斯先生》也成了他流传度最高的作品，几乎是坂本龙一的一张名片。</p>
@@ -250,7 +251,7 @@ SPANISH FILM WEEK，Majestic Theatre，2019.4.20-21</p>
 <em>然而沧桑世事于一生所遇总是有限</em><br>
 <em>童年、午后，一生中挥之不去的人和事</em><br>
 <em>这样的下午能回忆起几个？</em><br>
-*也许有四五个，也许还没有那么多 *<br>
+<em>也许有四五个，也许还没有那么多</em><br>
 <em>一生中能见过几次满月升起？</em><br>
 <em>或许有二十次吧？</em><br>
 <em>然而人们觉得生命享之不尽。</em></p>
@@ -261,7 +262,7 @@ SPANISH FILM WEEK，Majestic Theatre，2019.4.20-21</p>
 <li></li>
 </ul>
 <p>为美琪大戏院写的媒体稿，2019年1月<br>
-RYUICHI SAKAMOTO: async, Majestic Theatre, 2019.1.29</p>
+RYUICHI SAKAMOTO: async, Majestic Theatre, Shanghai，2019.1.29</p>
 ]]></content>
     </entry>
     <entry>
@@ -269,8 +270,9 @@ RYUICHI SAKAMOTO: async, Majestic Theatre, 2019.1.29</p>
         <id>https://theatreli.github.io/post/a_chorus_line/</id>
         <link href="https://theatreli.github.io/post/a_chorus_line/">
         </link>
-        <updated>2019-01-17T00:48:54.000Z</updated>
-        <content type="html"><![CDATA[<p>随着热门综艺《声入人心》结束，音乐剧圈开始有了一些改变。</p>
+        <updated>2019-01-16T17:48:54.000Z</updated>
+        <content type="html"><![CDATA[<p>THÉÂTRE | A Chorus Line</p>
+<p>随着热门综艺《声入人心》结束，音乐剧圈开始有了一些改变。</p>
 <p>国内音乐剧演员获得的更多粉丝，也有越来越多的朋友知道了很多名剧名段、所谓“四大”音乐剧：《悲惨世界》、《歌剧魅影》、《西贡小姐》和《猫》。但音乐剧绝不是几个像“主唱”一样的演员站在舞台上地唱歌而已，唱、跳、演是每位音乐剧演员的基本功。对观众来说，喜欢或讨厌一部音乐剧也可以有很多维度，剧本、舞美、编曲、编舞等等。</p>
 <p>四大之所以能成为四大，在这几个维度上都是出类拔萃的。但也有比如百老汇原创音乐剧《歌舞线上》，舞台看起来普通，但在受欢迎程度上，它其实可以算是那四部的“前辈”。</p>
 <p>1975年7月25日，《歌舞线上》在百老汇的 Shubert Theatre 首演，票房出乎意料地好，接连演出6137场，演到1990年，成为当时百老汇历史上演出时间最长的音乐剧。直到1997年，这一纪录被《猫》超越，2002年又被《歌剧魅影》超越。</p>
