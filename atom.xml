@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>野梨</title>
-    <updated>2020-05-11T22:26:59.253Z</updated>
+    <updated>2020-05-11T23:22:49.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://theatreli.github.io/images/avatar.png</logo>
     <icon>https://theatreli.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 野梨</rights>
+    <entry>
+        <title type="html"><![CDATA[ ☞ about me ☜]]></title>
+        <id>https://theatreli.github.io/post/a-la-une/</id>
+        <link href="https://theatreli.github.io/post/a-la-une/">
+        </link>
+        <updated>2020-05-11T17:22:05.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，我是梨。一个写作者，做过编辑。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
+<p>Bonjour, c'est Li. J'écris. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver ceux qui vous intéressent. Merci. Bonne lecture.</p>
+<p>Hi, this is Li. I am a writer. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
+<br/><br/><br/></p>
+<center>✴︎<center>
+<br/>
+<h4 id="与点书屋-br-la-maison-de-yudian">与点书屋 <br/> La maison de Yudian</h4>
+<p>☞ <a href="https://theatreli.com/post/la-maison-de-yudian/">savoir plus</a><br>
+<br/></p>
+<h4 id="在上海-br-shanghai">在上海 <br/> Shanghai</h4>
+<p>☞ <a href="https://theatreli.com/post/majestic-theatre/">savoir plus</a><br>
+<br/></p>
+<h4 id="在法国-bren-france">在法国 <br/>En France</h4>
+<p>Journal du confinement<br>
+Premiere partie: Nutella<br>
+☞ <a href="https://theatreli.com/post/neng-duo-yi-ri-ji-journal-du-confinement-premiere-partie-nutella/">savoir plus</a><br>
+<br/></p>
+<center>(...)<br/><br/>✴︎<center>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[胡萝卜日记  Journal du post-confinement]]></title>
         <id>https://theatreli.github.io/post/journal-du-post-confinement/</id>
@@ -29,32 +55,6 @@
 <p>有时候觉得我想明白了。四五年级的时候，校园文学很流行。尽管那时候我和同学都没有”A 类文学“”B 类文学”之类的概念，我们觉得我们的脑袋里也有故事，并相互约定开始写作。我们的愿望是写《马小跳》那样的小说，里面有长发飘飘的好看的女同学，也有很淘气顽劣的男同学。我现在还能记得，我用来写小说的笔记本很快就被荒废了，即使那只是一本骑马钉的薄本子。记得那时我才刚刚开始用圆珠笔写字，写字很用力，笔尖又细，写字的反面都突了起来。我对着皱起的那几页和接下来所有的空白叹过气。但要问我有没有过失望？不得而知。小时候的放弃是一件很淡然的事情。</p>
 <p>我重新拾起这种淡然。</p>
 <p>2020.5.11</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ ☞ about me ☜]]></title>
-        <id>https://theatreli.github.io/post/a-la-une/</id>
-        <link href="https://theatreli.github.io/post/a-la-une/">
-        </link>
-        <updated>2020-04-20T12:57:43.000Z</updated>
-        <content type="html"><![CDATA[<p>你好，我是梨。一个写作者，做过编辑。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
-<p>Bonjour, c'est Li. J'écris. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver ceux qui vous intéressent. Merci. Bonne lecture.</p>
-<p>Hi, this is Li. I am a writer. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
-<br/><br/><br/></p>
-<center>✴︎<center>
-<br/>
-<h4 id="与点书屋-br-la-maison-de-yudian">与点书屋 <br/> La maison de Yudian</h4>
-<p>☞ <a href="https://theatreli.com/post/la-maison-de-yudian/">savoir plus</a><br>
-<br/></p>
-<h4 id="在上海-br-shanghai">在上海 <br/> Shanghai</h4>
-<p>☞ <a href="https://theatreli.com/post/majestic-theatre/">savoir plus</a><br>
-<br/></p>
-<h4 id="在法国-bren-france">在法国 <br/>En France</h4>
-<p>Journal du confinement<br>
-Premiere partie: Nutella<br>
-☞ <a href="https://theatreli.com/post/neng-duo-yi-ri-ji-journal-du-confinement-premiere-partie-nutella/">savoir plus</a><br>
-<br/></p>
-<center>(...)<br/><br/>✴︎<center>
 ]]></content>
     </entry>
     <entry>
