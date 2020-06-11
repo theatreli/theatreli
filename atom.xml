@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>野梨</title>
-    <updated>2020-05-15T17:20:25.928Z</updated>
+    <updated>2020-06-11T16:21:34.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://theatreli.github.io/post/a-la-une/</id>
         <link href="https://theatreli.github.io/post/a-la-une/">
         </link>
-        <updated>2020-05-11T17:22:05.000Z</updated>
+        <updated>2020-05-11T05:22:05.000Z</updated>
         <content type="html"><![CDATA[<p>你好，我是梨。一个写作者，做过编辑。通过顶部 <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> 进入索引，可以找到我做过的事情。谢谢。祝你愉快。</p>
 <p>Bonjour, c'est Li. J'écris. N'hesitez pas à clique <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong> pour trouver ceux qui vous intéressent. Merci. Bonne lecture.</p>
 <p>Hi, this is Li. I am a writer. You can click <strong><em><a href="https://theatreli.com/tags/">tags</a></em></strong>  to find my works. Hope you will enjoy. Thanks.<br>
@@ -30,8 +30,9 @@
 <br/></p>
 <h4 id="在法国-bren-france">在法国 <br/>En France</h4>
 <p>Journal du confinement<br>
-Premiere partie: Nutella<br>
 ☞ <a href="https://theatreli.com/post/neng-duo-yi-ri-ji-journal-du-confinement-premiere-partie-nutella/">savoir plus</a><br>
+Journal du post-confinement<br>
+☞ <a href="https://theatreli.com/post/journal-du-post-confinement/">savoir plus</a><br>
 <br/></p>
 <center>(...)<br/><br/>✴︎<center>
 ]]></content>
