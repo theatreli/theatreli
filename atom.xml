@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>野梨</title>
-    <updated>2020-10-25T04:02:11.504Z</updated>
+    <updated>2020-10-25T04:06:17.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
@@ -202,11 +202,11 @@ SPANISH FILM WEEK, Majestic Theatre, Shanghai, 2020.10.16-18</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Majestic Theatre]]></title>
+        <title type="html"><![CDATA[Gallery | 美琪大戏院 Majestic Theatre]]></title>
         <id>https://theatreli.github.io/post/majestic-theatre/</id>
         <link href="https://theatreli.github.io/post/majestic-theatre/">
         </link>
-        <updated>2019-09-29T01:29:52.000Z</updated>
+        <updated>2019-09-28T13:29:52.000Z</updated>
         <content type="html"><![CDATA[<h3 id="centerfestifalcenter"><center>FESTIFAL<center></h3>
 <h4 id="centerspanish-film-week-2019center"><center>SPANISH FILM WEEK 2019<center></h4>
 <p><br/>Brochure, Tote bag, Notebook, Postcard, Special ticket stub<br>
