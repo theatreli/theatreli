@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theatreli.github.io</id>
     <title>野梨</title>
-    <updated>2020-11-27T11:58:21.173Z</updated>
+    <updated>2021-01-16T19:57:55.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theatreli.github.io"/>
     <link rel="self" href="https://theatreli.github.io/atom.xml"/>
     <subtitle>Li</subtitle>
     <logo>https://theatreli.github.io/images/avatar.png</logo>
     <icon>https://theatreli.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 野梨</rights>
+    <rights>All rights reserved 2021, 野梨</rights>
     <entry>
         <title type="html"><![CDATA[西班牙电影大师展 SPANISH FILM WEEK 2020 | 在这个初秋感受海水与火焰]]></title>
         <id>https://theatreli.github.io/post/spanish_film_week_2020_2/</id>
